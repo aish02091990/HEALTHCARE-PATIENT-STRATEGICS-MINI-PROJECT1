@@ -51,6 +51,7 @@ Conclusion
 This project shows how data analytics can improve healthcare systems by identifying patient risks, treatment patterns, and hospital performance. The insights help in better decision-making, improved patient care, efficient resource utilization, and reduced healthcare costs.
 ________________________________________
 Author
+
 AISHWARYA.K
 AI-Driven || Data Analyst || BI Developer || Business Intelligence || Power BI ||Tableau || Application Support ||Global Service Desk|| SQL || Python ||LEAN Six Sigma || ITIL || Java Script || HTML || Full Stack Developer ||AGILE ||Advanced Excel ||Ticketing tools-HP/ICARE/ITIL||ITIL Certification ||
 
