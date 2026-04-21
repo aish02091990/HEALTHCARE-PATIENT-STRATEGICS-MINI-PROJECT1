@@ -1,0 +1,57 @@
+Healthcare Patients Safety Measures PowerBi
+Healthcare Analytics & Patient Safety – Power BI using Python
+
+Project Overview
+This project focuses on analyzing healthcare data to identify patterns in patient conditions, hospital performance, and treatment outcomes. The goal is to use data analytics and basic machine learning to improve patient care, optimize hospital operations, and support decision-making.
+The dataset includes patient demographics, diagnosis, treatment details, hospital visits, recovery rates, and medical costs. Using Python (Pandas, NumPy), SQL, and visualization tools (Matplotlib, Seaborn), the data is cleaned, processed, and analyzed through EDA.
+Interactive dashboards in Power BI highlight patient trends, disease patterns, hospital efficiency, and risk factors. Predictive models are used to estimate patient readmission and disease risk.
+________________________________________
+Key Features
+• Data Collection & Integration from healthcare datasets
+• Data Cleaning & Preprocessing (missing values, duplicates)
+• Exploratory Data Analysis (EDA) for patient trends
+• Data Visualization (charts, KPIs, dashboards)
+• Patient & Disease Analysis
+• Hospital Performance Analysis
+• Trend Analysis (admissions, recovery rates)
+• Predictive Modeling (readmission risk, disease prediction)
+• Impact Assessment (cost, recovery, mortality rates)
+• Interactive Dashboard (Power BI)
+________________________________________
+Project Objectives
+• Analyze patient and hospital data
+• Identify high-risk patients and diseases
+• Understand treatment effectiveness
+• Perform EDA for insights
+• Build predictive models for risk detection
+• Create dashboards for decision-making
+• Improve patient care and hospital efficiency
+• Optimize resource allocation
+________________________________________
+Problem Statement
+Healthcare systems generate large volumes of data, but lack effective analysis to improve patient outcomes and operational efficiency. Hospitals often face challenges in predicting patient risks, managing resources, and reducing treatment costs.
+This project aims to analyze healthcare data, identify patterns, and develop predictive insights to enhance patient safety, improve treatment outcomes, and support data-driven healthcare decisions.
+________________________________________
+Tools & Technologies
+• Microsoft Excel – Data cleaning
+• Power BI – Dashboard & visualization
+• Python (Pandas, NumPy) – Data analysis
+• Matplotlib & Seaborn – Visualization
+• SQL – Data querying
+• Power Query – ETL operations
+________________________________________
+Data Preprocessing
+• Removed duplicates & handled missing values
+• Standardized formats (date, categories)
+• Created fact & dimension tables
+• Added calculated columns (patient risk, recovery status)
+• Categorized patients based on severity and treatment stages
+________________________________________
+Conclusion
+This project shows how data analytics can improve healthcare systems by identifying patient risks, treatment patterns, and hospital performance. The insights help in better decision-making, improved patient care, efficient resource utilization, and reduced healthcare costs.
+________________________________________
+Author
+AISHWARYA.K
+AI-Driven || Data Analyst || BI Developer || Business Intelligence || Power BI ||Tableau || Application Support ||Global Service Desk|| SQL || Python ||LEAN Six Sigma || ITIL || Java Script || HTML || Full Stack Developer ||AGILE ||Advanced Excel ||Ticketing tools-HP/ICARE/ITIL||ITIL Certification ||
+
+
